@@ -1,0 +1,100 @@
+{
+  "config" : {
+    "chainId" : 500,
+    "berlinBlock" : 0,
+    "zeroBaseFee" : true,
+    "contractSizeLimit" : 30000000,
+    "qbft" : {
+      "blockperiodseconds" : 1,
+      "epochlength" : 604800,
+      "requesttimeoutseconds" : 3
+    },
+	"transitions": {
+      "qbft": [
+        {
+          "block": 1000001,
+          "blockreward": "15000000000000000000"
+        },
+        {
+          "block": 8862401,
+          "blockreward": "13500000000000000000"
+        },
+        {
+          "block": 16724801,
+          "blockreward": "12150000000000000000"
+        },
+		{
+          "block": 24587201,
+          "blockreward": "10935000000000000000"
+        },
+		{
+          "block": 32449601,
+          "blockreward": "9841500000000000000"
+        },
+		{
+          "block": 40312001,
+          "blockreward": "8857350000000000000"
+        },
+		{
+          "block": 48174401,
+          "blockreward": "7971615000000000000"
+        },
+		{
+          "block": 56036801,
+          "blockreward": "7174453500000000000"
+        },
+		{
+          "block": 63899201,
+          "blockreward": "6457008150000000000"
+        },
+		{
+          "block": 71761601,
+          "blockreward": "5811307335000000000"
+        },
+		{
+          "block": 79624001,
+          "blockreward": "5230176601500000000"
+        },
+		{
+          "block": 87486401,
+          "blockreward": "4707158941350000000"
+        },
+		{
+          "block": 95348801,
+          "blockreward": "4236443047215000000"
+        },
+		{
+          "block": 103211201,
+          "blockreward": "3812798742493500000"
+        },
+		{
+          "block": 111073601,
+          "blockreward": "3431518868244150000"
+        },
+		{
+          "block": 118936001,
+          "blockreward": "3088366981419740000"
+        },
+		{
+          "block": 126798401,
+          "blockreward": "0"
+        }
+      ]
+    }
+  },
+  "nonce" : "0x0",
+  "timestamp" : "0x64B241AD",
+  "gasLimit" : "0x1fffffffffffff",
+  "difficulty" : "0x1",
+  "mixHash" : "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+  "coinbase" : "0x0000000000000000000000000000000000000000",
+  "number" : "0x0",
+  "gasUsed" : "0x0",
+  "parentHash" : "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "alloc" : {
+    "CE9683A16a128f0bE3Bc0677EF0046b3fd452329" : {
+      "balance" : "0x6342FD08F00F6378000000"
+    }
+  },
+  "extraData" : "0xf87aa00000000000000000000000000000000000000000000000000000000000000000f854944515825b4620022672227c3c7ad179723bdc32ff9427e528e7e5069f79a6be6ecfd5dd1dd42718b5b4941d75ef6e03b2f8abea6be09701a580c01c598c5b94bc258f1280727a22c23270cce0f41cde9959bd73c080c0"
+}
