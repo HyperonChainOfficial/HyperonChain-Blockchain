@@ -12,7 +12,7 @@
 	"transitions": {
       "qbft": [
         {
-          "block": 1000001,
+          "block": 2000001,
           "blockreward": "15000000000000000000"
         },
         {
