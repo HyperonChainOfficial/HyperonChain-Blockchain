@@ -18,22 +18,56 @@
           "block": 2000001,
           "blockreward": "15000000000000000000"
         },
-		{
+		    {
           "block": 2044440,
           "blockreward": "15000000000000000000",
-		  "epochlength" : 300,
-		  "requesttimeoutseconds" : 2,
-		  "messageQueueLimit" : 100000,
-		  "duplicateMessageLimit" : 10000,
-		  "futureMessagesLimit" : 100000,
-		  "futureMessagesMaxDistance": 300,
-		  "validators":
-			[
-				"0x1d75ef6e03b2f8abea6be09701a580c01c598c5b",
-				"0x27e528e7e5069f79a6be6ecfd5dd1dd42718b5b4",
-				"0x4515825b4620022672227c3c7ad179723bdc32ff",
-				"0xbc258f1280727a22c23270cce0f41cde9959bd73"
-			]
+		      "epochlength" : 300,
+		      "requesttimeoutseconds" : 2,
+		      "messageQueueLimit" : 100000,
+		      "duplicateMessageLimit" : 10000,
+		      "futureMessagesLimit" : 100000,
+		      "futureMessagesMaxDistance": 300,
+		      "validators":
+			      [
+				      "0x1d75ef6e03b2f8abea6be09701a580c01c598c5b",
+				      "0x27e528e7e5069f79a6be6ecfd5dd1dd42718b5b4",
+				      "0x4515825b4620022672227c3c7ad179723bdc32ff",
+				      "0xbc258f1280727a22c23270cce0f41cde9959bd73"
+			      ]
+        },
+        {
+          "block": 2813003,
+          "blockreward": "15000000000000000000",
+		      "epochlength" : 300,
+		      "requesttimeoutseconds" : 2,
+		      "messageQueueLimit" : 1000000,
+		      "duplicateMessageLimit" : 50000,
+		      "futureMessagesLimit" : 1000000,
+		      "futureMessagesMaxDistance": 10000,
+		      "validators":
+			      [
+				      "0x1d75ef6e03b2f8abea6be09701a580c01c598c5b",
+				      "0x27e528e7e5069f79a6be6ecfd5dd1dd42718b5b4",
+				      "0x4515825b4620022672227c3c7ad179723bdc32ff",
+				      "0xbc258f1280727a22c23270cce0f41cde9959bd73"
+            ]
+        },
+        {
+          "block": 2877937,
+          "blockreward": "15000000000000000000",
+		      "epochlength" : 300,
+		      "requesttimeoutseconds" : 2,
+		      "messageQueueLimit" : 1000000,
+		      "duplicateMessageLimit" : 50000,
+		      "futureMessagesLimit" : 1000000,
+		      "futureMessagesMaxDistance": 10000,
+		      "validators":
+			      [
+				      "0x1d75ef6e03b2f8abea6be09701a580c01c598c5b",
+				      "0x27e528e7e5069f79a6be6ecfd5dd1dd42718b5b4",
+				      "0x4515825b4620022672227c3c7ad179723bdc32ff",
+				      "0xbc258f1280727a22c23270cce0f41cde9959bd73"
+            ]
         },
         {
           "block": 8862401,
@@ -43,59 +77,59 @@
           "block": 16724801,
           "blockreward": "12150000000000000000"
         },
-		{
+		    {
           "block": 24587201,
           "blockreward": "10935000000000000000"
         },
-		{
+		    {
           "block": 32449601,
           "blockreward": "9841500000000000000"
         },
-		{
+		    {
           "block": 40312001,
           "blockreward": "8857350000000000000"
         },
-		{
+		    {
           "block": 48174401,
           "blockreward": "7971615000000000000"
         },
-		{
+		    {
           "block": 56036801,
           "blockreward": "7174453500000000000"
         },
-		{
+		    {
           "block": 63899201,
           "blockreward": "6457008150000000000"
         },
-		{
+		    {
           "block": 71761601,
           "blockreward": "5811307335000000000"
         },
-		{
+		    {
           "block": 79624001,
           "blockreward": "5230176601500000000"
         },
-		{
+		    {
           "block": 87486401,
           "blockreward": "4707158941350000000"
         },
-		{
+		    {
           "block": 95348801,
           "blockreward": "4236443047215000000"
         },
-		{
+		    {
           "block": 103211201,
           "blockreward": "3812798742493500000"
         },
-		{
+		    {
           "block": 111073601,
           "blockreward": "3431518868244150000"
         },
-		{
+		    {
           "block": 118936001,
           "blockreward": "3088366981419740000"
         },
-		{
+	    	{
           "block": 126798401,
           "blockreward": "0"
         }
