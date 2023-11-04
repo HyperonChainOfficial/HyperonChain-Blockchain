@@ -104,6 +104,23 @@
             ]
         },
         {
+          "block": 7980177,
+          "blockreward": "15000000000000000000",
+		      "epochlength" : 300,
+		      "requesttimeoutseconds" : 2,
+		      "messageQueueLimit" : 1000000,
+		      "duplicateMessageLimit" : 50000,
+		      "futureMessagesLimit" : 1000000,
+		      "futureMessagesMaxDistance": 10000,
+		      "validators":
+			      [
+				      "0x1d75ef6e03b2f8abea6be09701a580c01c598c5b",
+				      "0x27e528e7e5069f79a6be6ecfd5dd1dd42718b5b4",
+				      "0x4515825b4620022672227c3c7ad179723bdc32ff",
+				      "0xbc258f1280727a22c23270cce0f41cde9959bd73"
+            ]
+        },
+        {
           "block": 8862401,
           "blockreward": "13500000000000000000"
         },
